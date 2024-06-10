@@ -7,6 +7,8 @@ interface StockData {
   sector: string;
 }
 
+
+
 export const StockList: React.FC = () => {
   const [stocks, setStocks] = useState<StockData[]>([
     { ticker: "AAPL", price: 142.23, sector: "Technology" },
@@ -105,3 +107,5 @@ export const StockList: React.FC = () => {
     </div>
   );
 };
+
+
