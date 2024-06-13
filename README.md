@@ -1,4 +1,4 @@
-```markdown
+
 # Stock Diversity Calculator
 
 This project is a React-based application that allows users to manage a portfolio of stocks and calculate portfolio diversity based on the distribution of stocks across different sectors. The application provides a user-friendly interface for adding and removing stocks from the portfolio and displays the portfolio's diversity score.
@@ -93,4 +93,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Aum Joshi - ajoshi95@asu.edu(mailto:ajoshi95@asu.edu)
 
 Project Link: https://github.com/aumjoshii/stock-diversity-calculator(https://github.com/aumjoshii/stock-diversity-calculator)
-```
+
