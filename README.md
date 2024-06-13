@@ -90,7 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Aum Joshi - ajoshi95@asu.edu(mailto:ajoshi95@asu.edu)
+Aum Joshi - ajoshi95@asu.edu
 
-Project Link: https://github.com/aumjoshii/stock-diversity-calculator(https://github.com/aumjoshii/stock-diversity-calculator)
+Project Link: https://github.com/aumjoshii/stock-diversity-calculator
 
